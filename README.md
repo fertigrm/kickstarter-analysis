@@ -1,15 +1,14 @@
 ## Kickstarting with Excel
 
-## In this project we analyzed the data to extrapolate two different sets of data,
-the number of successful plays and their respective months of funding, as well as 
+## In this project we analyzed the data for crowdfunding Plays
+The number of successful plays and their respective months of funding, as well as 
 finding out the success rate of plays based on their crowd funding goal.
 
-### The purpose of this was to find useful insights for Louise, so we can help her
-with her project
+### The purpose of this was to find useful insights for Louise, so we can help Louise
 
-## Some challenges where making sure that every command was entered correctly, down to
-the digit, I had to backtrack and add '=' to signs in my < or >
- countif sections to correct my graph.
+
+## Challenges or difficulties
+
 
 ### ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/102084269/160455038-b6c39cad-82b4-47ca-adf0-c80caede4bf8.png)
 
