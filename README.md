@@ -4,7 +4,7 @@
 The number of successful plays and their respective months of funding, as well as 
 finding out the success rate of plays based on their crowd funding goal.
 
-### The purpose of this was to find useful insights for Louise, so we can help Louise
+### The purpose of this was to find useful insights for Louise
 
 
 ## Challenges or difficulties
